@@ -1,3 +1,8 @@
+<img width="770" height="408" alt="FDA ERD Diagram_2025_1" src="https://github.com/user-attachments/assets/b6d5df35-479c-42db-af89-2e5d5c7dd47d" />
+
+
+
+
 # Importing and Creating a Database for Drugs@FDA Data in MySQL
 from pathlib import Path
 
