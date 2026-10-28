@@ -1,0 +1,16 @@
+# ystem files
+.DS_Store
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Virtual environments and environment variables
+.venv/
+.env
+
+# Original medication ZIP files
+*.zip
+
+# Full extracted dataset (not uploaded to GitHub due to be VERY large)
+test_medications.csv
