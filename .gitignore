@@ -1,0 +1,24 @@
+# Ignore FDA and DailyMed datasets
+DailyMed/
+Drugs@FDA/
+
+# Python virtual environments
+.venv/
+.venv-1/
+venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]a
+
+# Testing
+.pytest_cache/
+
+# Environment variables and secrets
+.env
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
